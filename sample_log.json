@@ -1,0 +1,4 @@
+{
+    "src_ip": "8.8.8.8",
+    "event": "connection_attempt"
+}
